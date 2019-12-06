@@ -1,0 +1,15 @@
+name: wind_extremes
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - python = 3.7
+    - xarray         # N-d labeled array library
+    - pandas         # Labeled array library
+    - numpy          # N-d array and numerics
+    - matplotlib     # Plotting library
+    - cartopy        # Coordinate systems for visualization of geospatial data
+    - ipython        # IPython interpreter 
+    - jupyter        # Jupyter federation architecture
+    - jupyterlab     # Jupyter Lab environment
+    

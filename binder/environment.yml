@@ -12,4 +12,4 @@ dependencies:
     - ipython        # IPython interpreter 
     - jupyter        # Jupyter federation architecture
     - jupyterlab     # Jupyter Lab environment
-    
+    - netcdf4
